@@ -23,7 +23,7 @@
 
 ### 👥&nbsp;&nbsp;Team 밍글맹글
 - Android: [김예림](https://github.com/aerimforest), [조은비](https://github.com/neoAA)
-- Web: [김도이](https://github.com/heydoy)
+- Web & Chatbot: [김도이](https://github.com/heydoy)
 - Design: 권지엽, 박수아  
 <br/>
 
